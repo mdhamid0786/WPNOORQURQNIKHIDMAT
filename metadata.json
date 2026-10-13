@@ -1,0 +1,6 @@
+{
+  "name": "Noor Qurani - Islamic Guidance & Ilm-ul-Buruj",
+  "description": "Comprehensive Islamic spiritual guidance platform featuring AI Istikhara, Khwabon Ki Tabeer (Ibn Sirin Dream Interpretation), Ilm-ul-Buruj, Abjad Name Calculator, Wazifa & Duas, and specialized Islamic AI Scholars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
